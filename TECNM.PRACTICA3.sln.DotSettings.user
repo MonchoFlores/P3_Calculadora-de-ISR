@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fe0d00b1_002Dfc61_002D449e_002Dbbe0_002D325325929bcc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProcessIsr_WhenSalaryIsMoreThan_0_AndLessThan_7735_Returns_Type1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_0_AndLessThan_7735_Returns_Type1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_7735_AndLessThan_65651_Returns_Type2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_65651_AndLessThan_115375_Returns_Type3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_115375_AndLessThan_134119_Returns_Type4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_134119_AndLessThan_160577_Returns_Type5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_160577_AndLessThan_323862_Returns_Type6&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_323862_AndLessThan_510451_Returns_Type7&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_510451_AndLessThan_974535_Returns_Type8&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_974535_AndLessThan_1299380_Returns_Type9&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_1299380_AndLessThan_3898140_Returns_Type10&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9A8E070A-9353-4CEE-BFB9-B90703D39DB7::net6.0::TecNM.Practica3.Test.PersonShould.ProcessIsr_WhenSalaryIsMoreThan_3898140_Returns_Type11&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

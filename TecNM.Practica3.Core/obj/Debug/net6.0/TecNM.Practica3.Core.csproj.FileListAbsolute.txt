@@ -1,0 +1,12 @@
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net6.0\TecNM.Practica3.Core.deps.json
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net6.0\TecNM.Practica3.Core.dll
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net6.0\TecNM.Practica3.Core.pdb
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.csproj.AssemblyReference.cache
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.AssemblyInfoInputs.cache
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.AssemblyInfo.cs
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.csproj.CoreCompileInputs.cache
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.dll
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\refint\TecNM.Practica3.Core.dll
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.pdb
+C:\Users\sixst\OneDrive\Documentos\INFORMATICA\Repos\Web Multiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\ref\TecNM.Practica3.Core.dll
